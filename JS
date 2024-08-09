@@ -61,4 +61,4 @@ function setResult() {
 	else if (point == '1347') { pos = 13; }
 	else if (point == '1356') { pos = 14; }
 	else if (point == '1357') { pos = 15; }
-	sessionStorage.setItem("pos", pos); // 저장
+	sessionStorage.setItem("pos", pos);
